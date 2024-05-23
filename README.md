@@ -1,5 +1,3 @@
-Sure, here is the README in English:
-
 ---
 
 # Tinder Card Slider
